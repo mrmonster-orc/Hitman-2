@@ -207,4 +207,4 @@ This repository serves as the official landing page for Hitman 2. The software i
 **Get the most recent version of Hitman 2 today!**
 
 ---
-**Last updated:** 2026-11-10 20:44:48 UTC
+**Last updated:** 2026-11-11 01:09:59 UTC
